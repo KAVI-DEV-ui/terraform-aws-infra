@@ -33,7 +33,7 @@ This repository contains Terraform code written in HCL to **provision, configure
 ```
 terraform-aws-infra/
 │
-├── /                  # Reusable Terraform modules (e.g., vpc, network, compute, iam)
+├── Transform-pipelines-project/                  # Reusable Terraform modules (e.g., vpc, network, compute, iam)
 │   ├── ec2/
 │   ├── subnets/
 └── .gitignore
